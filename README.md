@@ -45,6 +45,26 @@ https://develocraft.com/blog/code-quality-how-to-improve-define-and-measure-code
 ### 2. What is Code Quality & why is it Important?
 
 https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important
+- [x]	Bug-Free
+- [x]	Clear
+- [ ]	Consistent
+- [ ]	Direct
+- [x]	Documented
+- [ ]	Functional
+- [x]	Maintainable
+- [x]	Performant
+- [x]	Portable
+- [ ]	Purposeful
+- [ ]	Readable
+- [x]	Refactored
+- [x]	Reliable
+- [x]	Reusable
+- [ ]	Robust
+- [ ]	Secure
+- [x]	Simple
+- [x]	Sustainable
+- [x]	Testable
+- [x]	Understandable
 
 ### 3. Code Quality: What It Is and How To Measure It (With Tips)
 
