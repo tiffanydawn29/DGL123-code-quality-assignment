@@ -113,3 +113,11 @@ https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles
 - [x]	Sustainable
 - [x]	Testable
 - [x]	Understandable
+
+### The quality’s that are the same throughout all of the articles are:
+
+- [x]	Documented
+- [x]	Maintainable
+- [x]	Reusable
+- [x]	Sustainable
+- [x]	Testable
