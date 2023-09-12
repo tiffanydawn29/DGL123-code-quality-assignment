@@ -121,3 +121,8 @@ https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles
 - [x]	Reusable
 - [x]	Sustainable
 - [x]	Testable
+
+
+### Self – Evaluation:
+I believe I would score a 3 – solid job.
+I think I hit all the required points on this assignment. However, I believe there is always room for improvement, especially when you are evaluating your own job. I’m sure there are things I can do better as this is the first time I am completely an assignment like this one.
