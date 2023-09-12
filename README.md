@@ -30,3 +30,6 @@ https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important
 
 https://www.indeed.com/career-advice/career-development/what-is-code-quality
 
+### 4. Clean Code in PHP: Best Practices and Principles
+
+https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles
