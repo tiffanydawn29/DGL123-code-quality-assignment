@@ -7,7 +7,7 @@ Respository link: https://github.com/tiffanydawn29/DGL123-code-quality-assignmen
 
 Code Quality Assignment  
 
-"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler  
+*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler*  
 
 What is code quality?  
 
@@ -25,4 +25,8 @@ https://develocraft.com/blog/code-quality-how-to-improve-define-and-measure-code
 ### 2. What is Code Quality & why is it Important?
 
 https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important
+
+### 3. Code Quality: What It Is and How To Measure It (With Tips)
+
+https://www.indeed.com/career-advice/career-development/what-is-code-quality
 
