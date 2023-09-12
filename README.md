@@ -69,6 +69,26 @@ https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important
 ### 3. Code Quality: What It Is and How To Measure It (With Tips)
 
 https://www.indeed.com/career-advice/career-development/what-is-code-quality
+- [x]	Bug-Free
+- [ ]	Clear
+- [x]	Consistent
+- [ ]	Direct
+- [x]	Documented
+- [x]	Functional
+- [x]	Maintainable
+- [ ]	Performant
+- [x]	Portable
+- [ ]	Purposeful
+- [ ]	Readable
+- [ ]	Refactored
+- [x]	Reliable
+- [x]	Reusable
+- [ ]	Robust
+- [x]	Secure
+- [ ]	Simple
+- [x]	Sustainable
+- [x]	Testable
+- [x]	Understandable
 
 ### 4. Clean Code in PHP: Best Practices and Principles
 
