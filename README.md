@@ -18,8 +18,11 @@ As a developer the chances of you being the only one to look at the code you are
 The following are a few articles I have found and the different points each article makes on what they believe quality code really is.  
 
 
-###1. Code quality: how to improve, define, and measure code quality
+### 1. Code quality: how to improve, define, and measure code quality
 
 https://develocraft.com/blog/code-quality-how-to-improve-define-and-measure-code-quality-1
 
+### 2. What is Code Quality & why is it Important?
+
+https://www.codegrip.tech/productivity/what-is-code-quality-why-is-it-important
 
