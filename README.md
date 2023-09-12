@@ -93,3 +93,23 @@ https://www.indeed.com/career-advice/career-development/what-is-code-quality
 ### 4. Clean Code in PHP: Best Practices and Principles
 
 https://medium.com/@teal33t/clean-code-in-php-best-practices-and-principles
+- [ ]	Bug-Free
+- [ ]	Clear
+- [ ]	Consistent
+- [x]	Direct
+- [x]	Documented
+- [ ]	Functional
+- [x]	Maintainable
+- [ ]	Performant
+- [ ]	Portable
+- [ ]	Purposeful
+- [x]	Readable
+- [ ]	Refactored
+- [ ]	Reliable
+- [x]	Reusable
+- [x]	Robust
+- [ ]	Secure
+- [x]	Simple
+- [x]	Sustainable
+- [x]	Testable
+- [x]	Understandable
