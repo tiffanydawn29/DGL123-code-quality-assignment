@@ -21,6 +21,26 @@ The following are a few articles I have found and the different points each arti
 ### 1. Code quality: how to improve, define, and measure code quality
 
 https://develocraft.com/blog/code-quality-how-to-improve-define-and-measure-code-quality-1
+- [ ]	Bug-Free
+- [ ]	Clear
+- [x]	Consistent
+- [ ]	Direct
+- [x]	Documented
+- [ ]	Functional
+- [x]	Maintainable
+- [ ]	Performant
+- [ ]	Portable
+- [x]	Purposeful
+- [ ]	Readable
+- [ ]	Refactored
+- [x]	Reliable
+- [x]	Reusable
+- [ ]	Robust
+- [ ]	Secure
+- [ ]	Simple
+- [x]	Sustainable
+- [x]	Testable
+- [x]	Understandable
 
 ### 2. What is Code Quality & why is it Important?
 
